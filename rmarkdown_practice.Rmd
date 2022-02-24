@@ -28,4 +28,18 @@ urlcolor: blue
 <!-- Write your Markdown below this line -->
 
 # Section
+**Section 001**
+
+# Course Goals
+By the end of the course, students will be able to:
+
+* Use [GitHub](https://github.com) for creating a reproducible research document.
+
+    + My GitHub username is: *ashmcc10*
+    
+* Obtain, clean, transform, and visualize a dataset using R programming language.
+
+* Interpret and predict dataset trends using statistical inference and models.
+
+* Critically examine and interpret statistical claims reported in mass media.
 
